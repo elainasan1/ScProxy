@@ -2098,6 +2098,7 @@ function visual_spin_2(type, packet)
 
 
 end)
+menu()
 AddCallback("allspin","OnPacket", all_spin)
 AddCallback("qqspin","OnPacket", qq_spin)
 AddCallback("remespin","OnPacket", reme_spin)
