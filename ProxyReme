@@ -1,5 +1,5 @@
 -- do not touch
-version = "1.6"
+version = "1.8"
 tiles = {}
 tiles2 = {}
 collectdd = {}
@@ -8,7 +8,7 @@ w1x,w1y = 0,0
 w2x,w2y = 0,0
 tax = 5
 win = 0
-spamtext = "Im gay"
+spamtext = "Introvert#7672"
 spam = false
 ap = false
 ak = false
